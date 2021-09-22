@@ -1,5 +1,16 @@
+
+<img src="/img/piaui.jpg" width="150" align="right" class="center"/>
+
 # Piauí: esforçado na educação, porém (ainda) pouco recompensado
 
+
+Avisos:
+- Todos os resultados obtidos foram feitos utilizando-se a base completa do [Enem 2019](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem);
+- Todas as medidas de desempenho foram baseadas na nota total, que é o somatório das provas de "Linguagens, Códigos e suas Tecnologias", "Ciências Humanas e suas Tecnologias", "Redação", "Matemática e suas Tecnologias" e "Ciências da Natureza e suas Tecnologias"; além disso, os dados somente foram considerados para análise caso o somatório das notas do candidato tenha sido diferente de zero;
+- Para complementar as análises, foram utilizados dados do IBGE, explicados adiante.
+- Boa leitura!
+
+## Introdução e análises
 Certa vez li uma matéria sobre investimento por aluno na educação pública . Era uma reportagem que mostrava uma aparente correlação entre o orçamento para a educação pública e o desempenho estudantil, segundo o Ideb (Índice de Desenvolvimento da Educação Básica) em diferentes estados brasileiros; porém, focando nos dez estados com os piores índices. Tal leitura foi há alguns anos. 
 
 Eis os dois primeiros parágrafos daquela reportagem de 2011 [(UOL Educação)](https://educacao.uol.com.br/noticias/2011/02/22/seis-dos-dez-estados-com-pior-qualidade-de-educacao-investem-menos-por-aluno.htm):
@@ -128,7 +139,7 @@ Mas, no geral, considerando todos os candidatos, Piauí destaca-se quanto a este
 <img src="img/noticia_taxa_presenca.jpg" alt="Drawing" style="width: 450px;">
 </p> 
 
-# Conclusões
+## Conclusões
 
 Diante do exposto, parece haver enorme vontade dos candidatos piauienses continuarem seus estudos no ensino superior público e gratuito, mas que, provavelmente, em decorrência da falta de investimento na educação pública, há um grande abismo entre os desempenhos e, consequentemente, entre as oportunidades alcançadas pelos candidatos oriundos de escolas públicas em relação àqueles de escolas particulares.
 
