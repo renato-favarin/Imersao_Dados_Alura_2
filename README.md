@@ -1,4 +1,4 @@
-# Piauí: um Estado esforçado, porém (ainda) pouco recompensado
+# Piauí: esforçado na educação, porém (ainda) pouco recompensado
 
 Certa vez li uma matéria sobre investimento por aluno na educação pública . Era uma reportagem que mostrava uma aparente correlação entre o orçamento para a educação pública e o desempenho estudantil, segundo o Ideb (Índice de Desenvolvimento da Educação Básica) em diferentes estados brasileiros; porém, focando nos dez estados com os piores índices. Tal leitura foi há alguns anos. 
 
