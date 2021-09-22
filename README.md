@@ -10,7 +10,7 @@ Eis os dois primeiros parágrafos daquela reportagem de 2011 [(UOL Educação)](
 
 Desde a reportagem até o Enem 2019 passaram-se quase 10 anos.
  
-Vamos verificar se o desempenho dos candidatos do Enem 2019 nos seis estados citados na notícia sugere algum avanço após esse período. A figura a seguir apresenta um diagrama de caixa, comparando o desempenho destes seis estados com o restante dos estados brasileiros, mas apenas dos candidatos que cursam ou cursaram o ensino médio em escola pública.
+Vamos verificar se o desempenho dos candidatos do Enem 2019 nos seis estados citados na notícia sugere algum avanço após esse período. A figura a seguir apresenta um diagrama de caixa, comparando o desempenho destes seis estados com o restante dos estados brasileiros, mas apenas dos candidatos que cursam ou cursaram o ensino médio em escola pública:
 
 <p align="center">
 <img src="img/notas_totais_escola_publica.png" alt="Drawing" style="width: 600px;"/>
@@ -18,7 +18,7 @@ Vamos verificar se o desempenho dos candidatos do Enem 2019 nos seis estados cit
 
 Conforme pode ser observado, todos os estados citados na reportagem apresentaram uma curva de desempenho inferior aos demais estados do Brasil. Um ponto de atenção, em especial, é o estado do Pará, onde quase metade dos *outliers* das maiores notas estão dentro do *whisker* superior do conjunto formado pelos demais estados. **Mas será que esses seis estados são justamente os que apresentaram o pior desempenho de candidatos oriundos do ensino público no Enem 2019?**
 
-Para responder a esta questão, analisamos a figura seguinte, que traz a mediana dos dez menores desempenhos dos candidatos que cursam ou cursaram o ensino médio em escola pública. Como comparação, também traz a informação dos candidatos que cursam ou cursaram o ensino médio em escolas privadas dos respectivos estados.
+Para responder a esta questão, analisamos a figura seguinte, que traz a mediana dos dez menores desempenhos dos candidatos que cursam ou cursaram o ensino médio em escola pública. Como comparação, também traz a informação dos candidatos que cursam ou cursaram o ensino médio em escolas privadas dos respectivos estados:
 
 <p align="center">
 <img src="img/mediana_10_menores_desemp_esc_publica.png" alt="Drawing" style="width: 900px;"/>
@@ -26,7 +26,7 @@ Para responder a esta questão, analisamos a figura seguinte, que traz a mediana
 
 De acordo com a figura acima, **dentre os dez estados que apresentaram os piores desempenhos no Enem 2019 (escola pública), constam três (PA, AL e PI) dos seis estados** citados naquela reportagem de 2011.
 
-No entanto, o que mais chama a atenção é a diferença dos resultados da prova entre candidatos da escola pública em relação aos da escola privada. Vamos investigar um pouco melhor isso a seguir. A próxima figura apresenta o mesmo diagrama de caixa abordado anteriormente; porém, somente com os candidatos do ensino privado.
+No entanto, o que mais chama a atenção é a diferença dos resultados da prova entre candidatos da escola pública em relação aos da escola privada. Vamos investigar um pouco melhor isso a seguir. A próxima figura apresenta o mesmo diagrama de caixa abordado anteriormente; porém, somente com os candidatos do ensino privado:
 
 <p align="center">
 <img src="img/notas_totais_escola_privada.png" alt="Drawing" style="width: 600px;"/>
@@ -36,7 +36,7 @@ As diferenças das curvas dos desempenhos dos candidatos daqueles seis estados c
 
 Nota-se, ainda, que o desempenho dos candidatos que cursam ou cursaram o ensino privado no Piauí ficou acima da mediana do conjunto de candidatos dos demais estados do Brasil; ou seja, **enquanto no ensino público o Estado do Piauí "puxa" a mediana do Brasil para baixo (conforme foi visto na Figura 1), no ensino privado ocorre o oposto**.
 
-**Considerando todos os estados do Brasil, seria o Piauí aquele com a maior desigualdade de desempenho entre candidatos do ensino público e privado?** A figura a seguir apresenta as dez maiores diferenças da mediana do desempenho entre esses candidatos no Enem 2019.
+**Considerando todos os estados do Brasil, seria o Piauí aquele com a maior desigualdade de desempenho entre candidatos do ensino público e privado?** A figura a seguir apresenta as dez maiores diferenças da mediana do desempenho entre esses candidatos no Enem 2019:
 
 <p align="center">
 <img src="img/mediana_10_maiores_dif_esc_publ_privada.png" alt="Drawing" style="width: 750px;"/>
@@ -63,7 +63,7 @@ Cada um destes questionamentos pode resultar em novas investigações. Para a pr
 
 > índice (ou coeficiente) de Gini: Medida de desigualdade relativa obtida a partir da Curva de Lorenz, que relaciona o percentual acumulado da população em ordem crescente de rendimentos (eixo x) e o percentual acumulado de rendimentos (eixo y). Quando os percentuais acumulados de população correspondem aos percentuais acumulados de rendimentos (10% da população com 10% dos rendimentos, por exemplo), tem se a linha de perfeita igualdade. A Curva de Lorenz representa a distribuição real de rendimentos de uma dada população tendo, em geral, formato convexo. Quanto mais afastada da linha de perfeita igualdade, mais desigual a distribuição. O índice de Gini é uma medida numérica que representa o afastamento de uma dada distribuição de renda (Curva de Lorenz) da linha de perfeita igualdade, variando de “0” (situação onde não há desigualdade) e “1” (desigualdade máxima, ou seja, toda a renda apropriada por um único indivíduo).<br> Fonte: [Síntese de indicadores sociais. Uma análise das condições de vida. IBGE, 2018.](https://biblioteca.ibge.gov.br/visualizacao/livros/liv101629.pdf)
 
-A próxima figura traz os valores do índice de Gini desde o seu início (2012) até 2019, por estado. O tamanho de cada barra representa o somatório do índice de Gini em cada ano. Dessa maneira, é uma forma apropriada de representar, em um só gráfico, todo o histórico desse índice disponível no [portal do IBGE](https://www.ibge.gov.br/estatisticas/sociais/rendimento-despesa-e-consumo/17270-pnad-continua.html?edicao=27257&t=resultados)
+A próxima figura traz os valores do índice de Gini desde o seu início (2012) até 2019, por estado. O tamanho de cada barra representa o somatório do índice de Gini em cada ano. Dessa maneira, é uma forma apropriada de representar, em um só gráfico, todo o histórico desse índice disponível no [portal do IBGE](https://www.ibge.gov.br/estatisticas/sociais/rendimento-despesa-e-consumo/17270-pnad-continua.html?edicao=27257&t=resultados):
 
 <p align="center">
 <img src="img/serie_indice_gini.png" alt="Drawing" style="width: 1710px; height: 400px"/>
@@ -73,7 +73,7 @@ Como pode ser observado, **o estado do Piauí é o segundo com a renda mais desi
 
 Além do Piauí, outros três estados que estão entre os que tiveram maior desigualdade no desempenho no Enem 2019 também estão entre os dez que apresentaram as maiores desigualdades de renda: AM, CE e BA.
 
-Vamos verificar, agora, os dez estados menos desiguais no desempenho no Enem 2019, destacando-se os estados que estão entre os dez menos desiguais na renda, conforme a figura anterior.
+Vamos verificar, agora, os dez estados menos desiguais no desempenho no Enem 2019, destacando-se os estados que estão entre os dez menos desiguais na renda, conforme a figura anterior:
 
 <p align="center">
 <img src="img/mediana_10_menores_dif_esc_publ_privada.png" alt="Drawing" style="width: 750px"/>
@@ -102,7 +102,7 @@ Sabe-se que uma das maneiras de obter melhores condições socioeconômicas é c
 
 Um indicador que podemos recorrer para levantar possíveis problemas nos diferentes estados e regiões é a taxa de abstenção dos candidatos. Sabe-se, também, que a realidade do transporte é significativamente diferente entre aqueles candidatos que possuem carro ou moto em suas residências e aqueles que não os possuem.
 
-Primeiramente, vamos verificar este indicador para os candidatos que não possuem transporte próprio em suas residências. A figura a seguir mostra a taxa de abstenção de candidatos das capitais e das demais regiões, por estado, mas apenas dos que não possuem moto ou carro.
+Primeiramente, vamos verificar este indicador para os candidatos que não possuem transporte próprio em suas residências. A figura a seguir mostra a taxa de abstenção de candidatos das capitais e das demais regiões, por estado, mas apenas dos que não possuem moto ou carro:
 
 <p align="center">
 <img src="img/taxa_abstencao_sem_moto_carro.png" alt="Drawing" style="width: 1500px"/>
@@ -140,7 +140,7 @@ Entretanto, este cenário da educação pública do Piauí não está, aparentem
 <img src="img/noticia_educacao_PI.jpg" alt="Drawing" style="width: 650px;">
 </p> 
 
-Tal avanço na educação do Piauí ainda não foi refletido no Enem, conforme mostrado e explicado ao longo deste estudo; mas talvez seja apenas uma questão de tempo. Por ora, [a comemoração por tal feito no último Ideb](https://brasil.elpais.com/brasil/2020-09-20/interior-do-piaui-celebra-avanco-no-ideb-como-se-fosse-a-final-do-brasileirao-mas-impacto-da-pandemia-preocupa.html) é mais do que justa: há de se reconhecer o esforço da população do Piauí que, mesmo diante de obstáculos no caminho, conseguiu um significativo crescimento em qualidade da educação pública estadual.
+Tal avanço na educação do Piauí ainda não foi refletido no Enem, conforme mostrado e explicado ao longo deste estudo; mas talvez seja apenas uma questão de tempo. Por ora, [a comemoração por tal feito no último Ideb](https://brasil.elpais.com/brasil/2020-09-20/interior-do-piaui-celebra-avanco-no-ideb-como-se-fosse-a-final-do-brasileirao-mas-impacto-da-pandemia-preocupa.html) é mais do que justa: há de se reconhecer o esforço da população do Piauí que, mesmo diante de obstáculos no caminho, conseguiu um significativo crescimento em qualidade da educação pública estadual:
 
 <p align="center">
 <img src="img/noticia_educacao_PI_2.jpg" alt="Drawing" style="width: 650px;">
@@ -149,7 +149,7 @@ Tal avanço na educação do Piauí ainda não foi refletido no Enem, conforme m
 ## Conteúdo extra e sugestões de trabalhos futuros
 Conforme pôde ser notado, há uma grande diferença nas taxas de abstenção entre aqueles que possuem transporte (moto ou carro) em suas residências em comparação com aqueles que não possuem. Também notam-se diferenças, às vezes bastante consideráveis, entre os candidatos residentes nas capitais e os candidatos residentes nas demais regiões do estado.
 
-As duas figuras seguintes trazem as mesmas análises apresentadas anteriormente, destacando-se a diferença da taxa de abstenção entre os candidatos que residem nas capitais e aqueles que habitam as demais regiões dos respectivos estados. Esta diferença é representada pelos números acima das colunas. Números marrons indicam abstenção maior na capital e números verdes apontam que a maior abstenção ocorreu nas demais cidades.
+As duas figuras seguintes trazem as mesmas análises apresentadas anteriormente, destacando-se a diferença da taxa de abstenção entre os candidatos que residem nas capitais e aqueles que habitam as demais regiões dos respectivos estados. Esta diferença é representada pelos números acima das colunas. Números marrons indicam abstenção maior na capital e números verdes apontam que a maior abstenção ocorreu nas demais cidades:
 
 <p align="center">
 <img src="img/taxa_abstencao_sem_moto_carro_compl.png" alt="Drawing" style="width: 1700px;">
