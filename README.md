@@ -122,6 +122,51 @@ A próxima figura apresenta a mesma informação; porém, para os candidatos que
 
 Desta vez, Sergipe foi o estado que apresentou a menor taxa de abstenção do Enem 2019 dentre os candidatos que possuem algum transporte próprio em suas residências.
 
-Mas, no geral, considerando todos os candidatos, Piauí destaca-se quanto a este indicador há algum tempo, conforme a manchete a seguir:
+Mas, no geral, considerando todos os candidatos, Piauí destaca-se quanto a este indicador há algum tempo, conforme a manchete a seguir do [G1](https://g1.globo.com/pi/piaui/noticia/2019/11/04/piaui-tem-maior-taxa-de-presenca-no-primeiro-dia-de-enem-pelo-4o-ano-consecutivo.ghtml):
 
-noticia_taxa_presenca.jpg
+<p align="center">
+<img src="img/noticia_taxa_presenca.jpg" alt="Drawing" style="width: 450px;">
+</p> 
+
+# Conclusões
+
+Diante do exposto, parece haver enorme vontade dos candidatos piauienses continuarem seus estudos no ensino superior público e gratuito, mas que, provavelmente, em decorrência da falta de investimento na educação pública, há um grande abismo entre os desempenhos e, consequentemente, entre as oportunidades alcançadas pelos candidatos oriundos de escolas públicas em relação àqueles de escolas particulares.
+
+Este abismo pode ficar ainda maior se for ignorado pelo Estado.
+
+Entretanto, este cenário da educação pública do Piauí não está, aparentemente, sendo desconsiderado, visto que a realidade nesse estado parece estar em plena transformação positiva. O último Ideb evidenciou enormes avanços, conforme consta na [notícia](https://www.pi.gov.br/noticias/piaui-e-destaque-no-ideb-2019-e-avanca-em-todas-as-etapas-de-ensino/) a seguir:
+
+<p align="center">
+<img src="img/noticia_educacao_PI.jpg" alt="Drawing" style="width: 650px;">
+</p> 
+
+Tal avanço na educação do Piauí ainda não foi refletido no Enem, conforme mostrado e explicado ao longo deste estudo; mas talvez seja apenas uma questão de tempo. Por ora, [a comemoração por tal feito no último Ideb](https://brasil.elpais.com/brasil/2020-09-20/interior-do-piaui-celebra-avanco-no-ideb-como-se-fosse-a-final-do-brasileirao-mas-impacto-da-pandemia-preocupa.html) é mais do que justa: há de se reconhecer o esforço da população do Piauí que, mesmo diante de obstáculos no caminho, conseguiu um significativo crescimento em qualidade da educação pública estadual.
+
+<p align="center">
+<img src="img/noticia_educacao_PI_2.jpg" alt="Drawing" style="width: 650px;">
+</p> 
+
+## Conteúdo extra e sugestões de trabalhos futuros
+Conforme pôde ser notado, há uma grande diferença nas taxas de abstenção entre aqueles que possuem transporte (moto ou carro) em suas residências em comparação com aqueles que não possuem. Também notam-se diferenças, às vezes bastante consideráveis, entre os candidatos residentes nas capitais e os candidatos residentes nas demais regiões do estado.
+
+As duas figuras seguintes trazem as mesmas análises apresentadas anteriormente, destacando-se a diferença da taxa de abstenção entre os candidatos que residem nas capitais e aqueles que habitam as demais regiões dos respectivos estados. Esta diferença é representada pelos números acima das colunas. Números marrons indicam abstenção maior na capital e números verdes apontam que a maior abstenção ocorreu nas demais cidades.
+
+<p align="center">
+<img src="img/taxa_abstencao_sem_moto_carro_compl.png" alt="Drawing" style="width: 1700px;">
+</p>
+
+<p align="center">
+<img src="img/taxa_abstencao_com_moto_carro_compl.png" alt="Drawing" style="width: 1700px;">
+</p> 
+
+Nota-se que, **para os candidatos que não possuem moto ou carro em suas residências, não há indicação clara de que os habitantes nas capitais tendem a se abster mais em relação àqueles que moram em outras cidades do estado**. No entanto, não podemos deixar de notar que as três maiores diferenças de abstenções intraestaduais ocorreram em TO (Palmas), BA (Salvador) e MG (Belo Horizonte) cujas capitais superaram, respectivamente, em 6,77%, 4,48% e 3,41% as abstenções das demais cidades desses estados.
+
+Por outro lado, para os candidatos que possuem moto ou carro em suas residências, as maiores taxas de abstenções por estado ocorreram nas cidades das demais regiões quase em sua totalidade; curiosamente, o Piauí é uma das poucas exceções.
+
+**Uma hipótese para explicar tais resultados é que para os candidatos que não possuem meios de transporte em suas residências, a dificuldade em acessar os locais da prova, que já é maior por si só, podem ser semelhantes para locomoções intramunicipal ou intraestadual**; por isso que, embora estes candidatos apresentem as maiores taxas de abstenções, elas são equilibradas quanto à região predominante nos diferentes estados. **Enquanto para os candidatos que possuem meios de transporte em suas residências, a dificuldade, embora menor em comparação ao primeiro grupo, é maior se o local da prova é em outro município**. Como informação adicional, apenas pouco mais de 30% dos municípios brasileiros aplicaram o Enem em 2019.
+
+A terceira sugestão para futuros estudos é investigar melhor estes números; pode-se dividir cada estado em diversas outras regiões e entender melhor os locais onde as abstenções são maiores. A seguir, pode-se estudar a razão pela qual existem regiões onde a abstenção é maior e, então, propor soluções para diminuí-las.
+
+Uma quarta sugestão de trabalho futuro surgiu após a leitura da última notícia presente neste estudo. **Os avanços na educação do Piauí, evidenciados pelo avanço no último Ideb, podem ficar ameaçados pelas suspensões das aulas devido à pandemia e consequentes dificuldades do ensino à distância**. Segundo a reportagem, a maioria dos alunos da rede pública do Piauí não têm acesso à internet.
+
+Sugere-se, então, investigar um conjunto de indicadores que podem apontar os estados cuja educação ficará mais prejudicada devido à suspensão das aulas; um deles é o próprio acesso à internet pelos estudantes. Mas podem existir outros ou, então, pode-se pensar em novos indicadores e trabalhar para obtê-los. A seguir, propor junto aos governos planos de recuperação da educação pública, ajustados especificamente para cada estado, de acordo com os impactos previstos e revelados pelos indicadores previamente obtidos e trabalhados.
